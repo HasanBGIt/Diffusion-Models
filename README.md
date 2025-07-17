@@ -15,7 +15,12 @@ This repository contains implementations and notebooks for various **Diffusion M
 
 ---
 
-### 🖼️ Generated Samples Over Epochs for (DDPM)
+### Generated Samples Over Epochs for (DDPM)
 
-![Training Progress](./DDPM/ddpm_progress.gif)
+![Training Progress](./DDPM/progress.gif)
 
+### Loss (DDPM)
+
+![Loss](./DDPM/Loss.png)
+
+---
